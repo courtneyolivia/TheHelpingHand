@@ -4,12 +4,12 @@ Team Name: "Working volunteers"
 
 Project Title: The Helping Hand- Help for the Homeless
 
-Team Members: Courtney Williams
-              Charronda King
-              Denise Gallardo
-              Dean Dyer
-              Desmon Standford
-              Adam Peery
+Team Members: Courtney Williams,
+              Charronda King,
+              Denise Gallardo,
+              Dean Dyer,
+              Desmon Standford,
+              Adam Peery,
               Darreck Bender
 
 Project Description: Our website will focus on providing information pertaining to homelessness awareness, charities, and                          events to people wanting to volunteer to help the homeless.
